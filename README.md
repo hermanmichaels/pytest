@@ -1,0 +1,1 @@
+Sample repo corresponding to my Medium blog post [Python Mocking in Production](https://medium.com/p/1924953c8a14/).
